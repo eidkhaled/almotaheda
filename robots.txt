@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eidkhaled.github.io/almotaheda/sitemap.xml
